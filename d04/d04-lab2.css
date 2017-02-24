@@ -1,0 +1,26 @@
+#first	{
+	text-align: center;
+	color: white;
+	font-size: 16px;
+	padding: 10px 5px 10px 5px;
+	background-color: black;
+}
+
+.box {
+	padding: 20px 15px 20px 15px;
+	background-color: #FA6A3E;
+	text-align: center;
+	font-size: 15px;
+}
+
+#color1 {
+	color: #FC05AE;
+}
+
+#color2 {
+	color: green;
+}
+
+#color3 {
+	color: yellow;
+}
