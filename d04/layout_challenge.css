@@ -1,0 +1,35 @@
+#first {
+	font-family: calibri;
+	font-size: 18px;
+	margin-left: 50px;
+}
+
+.box1 {
+	padding: 50px 45px 50px 45px;
+	background-color: #D4D4D4;
+	border: 1px solid black;
+	margin-left: 50px;
+	margin-right: 50px;
+}
+
+.box2 {
+	
+	padding: 125px 120px 125px 125px;
+	background-color: #D4D4D4;
+	border: 1px solid black;
+	margin-left: 50px;
+	margin-right: 550px;
+	}
+
+
+.box3 {
+	padding: 125px 120px 125px 125px;
+	background-color: #D4D4D4;
+	border: 1px solid black;
+	margin-left: 800px;
+	margin-right: 50px;
+}
+
+.box2, .box3 {
+    display: inline-block;
+  }  
